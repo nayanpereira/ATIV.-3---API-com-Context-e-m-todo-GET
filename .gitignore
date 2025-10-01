@@ -1,0 +1,23 @@
+# Arquivos de usuário específicos de IDEs e ferramentas
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Arquivos de build e saídas
+[Bb]in/
+[Oo]bj/
+
+# Arquivos de configuração local
+Properties/launchSettings.json
+.vscode/
+
+# Arquivos do sistema operacional
+Thumbs.db
+ehthumbs.db
+[Dd]esktop.ini
+$RECYCLE.BIN/
+
+# Arquivos de log e cache
+*.log
+*.cache
